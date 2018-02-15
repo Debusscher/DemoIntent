@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">DemoIntent</string>
+    <string name="txt_btn_call">Call</string>
+    <string name="txt_btn_homepage">Homepage</string>
+    <string name="txt_btn_call">Call</string>
+    <string name="txt_btn_homepage">Homepage</string>
+    <string name="txt_btn_map">Map</string>
+    <string name="txt_btn_details">Details</string>
 </resources>
